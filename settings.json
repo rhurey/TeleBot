@@ -1,0 +1,13 @@
+{
+    "IntentReco": {
+        "region": "",
+        "key": ""
+    },
+    "Synthesizer": {
+        "region": "",
+        "key": ""
+    },
+    "Program": {
+        "comport": "/dev/ttyACM0"
+    }
+}
